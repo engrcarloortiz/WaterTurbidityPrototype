@@ -15,5 +15,5 @@ This triggers the maintenance team to perform water replacement on the tank.
 3. Turbidity Sensor (Analog)
 
 **FILE CONTENTS:**
-1. CE JIMAN - MC3 - DFL7000s Chiller Unit Water Turbidity Sensor_rev0.pdf // Report ganarated for presentation
+1. CE JIMAN - MC3 - DFL7000s Chiller Unit Water Turbidity Sensor_rev0.pdf // Report generated for presentation
 2. WaterTurbiditySketch.ino //Arduino Sketch File
